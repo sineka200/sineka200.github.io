@@ -1,2 +1,2 @@
-# sineka200.github.io
+# spark_foundation
 Web Development &amp; Designing Internship
